@@ -8,7 +8,7 @@
 
 
  # Pedro Fernandes Rocha (DevRoocha) 
-Tenho 19 anos e estou em busca do meu primeiro emprego na área de desenvolvimento, seja no front-end ou no back-end. Atualmente, estou estudando diversas linguagens, como JavaScript, HTML e CSS, e já possuo conhecimentos  em C, C# e Python.
+Tenho 19 anos e estou em busca do meu primeiro emprego na área de desenvolvimento, seja no front-end ou no back-end. Atualmente, estou estudando diversas linguagens, como Java, HTML e CSS, e já possuo conhecimentos  em C, C# e Python.
  
 
 
