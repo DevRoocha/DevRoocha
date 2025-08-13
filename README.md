@@ -43,4 +43,4 @@ Tenho 19 anos e estou em busca do meu primeiro emprego na área de desenvolvimen
 
 ### 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevRoocha&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![DevRoocha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRoocha&theme=dark&show_icons=true&hide_border=false&layout=compact) 
